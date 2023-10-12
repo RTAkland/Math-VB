@@ -1,6 +1,6 @@
 VERSION 5.00
 Begin VB.Form Form1 
-   Caption         =   "Form1"
+   Caption         =   "Math-VB"
    ClientHeight    =   4365
    ClientLeft      =   120
    ClientTop       =   465
